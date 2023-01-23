@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ToDoReduser/static/css/main.4faa73c6.css",
+    "main.js": "/ToDoReduser/static/js/main.6d39c723.js",
+    "static/js/787.ec704a7a.chunk.js": "/ToDoReduser/static/js/787.ec704a7a.chunk.js",
+    "static/media/photto1.jpg": "/ToDoReduser/static/media/photto1.92841922be17840f432b.jpg",
+    "index.html": "/ToDoReduser/index.html",
+    "main.4faa73c6.css.map": "/ToDoReduser/static/css/main.4faa73c6.css.map",
+    "main.6d39c723.js.map": "/ToDoReduser/static/js/main.6d39c723.js.map",
+    "787.ec704a7a.chunk.js.map": "/ToDoReduser/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4faa73c6.css",
+    "static/js/main.6d39c723.js"
+  ]
+}
